@@ -1,7 +1,3 @@
 line 1
 Line 2
-<<<<<<< HEAD
-line 3 main branch line
-=======
 line 3 on feature branch
->>>>>>> feature
